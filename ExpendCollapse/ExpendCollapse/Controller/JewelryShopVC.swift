@@ -18,9 +18,6 @@ class JewelryShopVC: UIViewController {
         super.viewDidLoad()
         self.loadDataFromJson()
         tableView.reloadData()
-        
-        Operation
-        
     }
     
     //MARK: Custome methods
